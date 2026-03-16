@@ -1,0 +1,12 @@
+=IF(OR(
+ISNUMBER(SEARCH("chicken",G4)),
+ISNUMBER(SEARCH("egg",G4)),
+ISNUMBER(SEARCH("fish",G4)),
+ISNUMBER(SEARCH("mutton",G4)),
+ISNUMBER(SEARCH("prawn",G4)),
+ISNUMBER(SEARCH("biryani",G4)),
+ISNUMBER(SEARCH("kabab",G4)),
+ISNUMBER(SEARCH("kebab",G4)),
+ISNUMBER(SEARCH("Non-Veg",G4)),
+ISNUMBER(SEARCH("non veg",G4))
+),"Non-Veg","Veg")
