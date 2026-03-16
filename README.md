@@ -8,7 +8,7 @@ This project is an interactive Swiggy Dashboard created using Microsoft Excel to
  • Clean and user-friendly layout for easy data interpretation
 
 **Tools Used**
- •nMicrosoft Excel
+ • Microsoft Excel
  • Pivot Tables
  • Charts & Graphs
  • Slicers for filtering data
